@@ -22,5 +22,5 @@ navigate to the location of the app you want to flash i.e.
 # setting the switches on your RC controller to activate comands
 
 ## update script crtp_commander_generic.c
-* copy and past flie crtp_commander_generic.c over your file
+* copy and past flie [crtp_commander_generic.c](fimware_files/crtp_commander_generic.c) over your file
 
